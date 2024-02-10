@@ -29,6 +29,10 @@ All SQL create commands are in `sql` folder.
 
 ![accelerometer trusted count](./images/accelerometer_trusted_count.png)
 
+### Step trainer trusted zone:
+
+![Step trainer trusted count](./images/step_trainer_trusted_count.png)
+
 ## Curated Zone
 
 ### Customer curated zone:
